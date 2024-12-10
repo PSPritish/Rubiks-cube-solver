@@ -1,0 +1,18 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "C:/Users/pspkm/CLionProjects/RubicksCubeSolver/cmake-build-debug",
+	"dir-cur-src" : "C:/Users/pspkm/CLionProjects/RubicksCubeSolver",
+	"dir-top-bld" : "C:/Users/pspkm/CLionProjects/RubicksCubeSolver/cmake-build-debug",
+	"dir-top-src" : "C:/Users/pspkm/CLionProjects/RubicksCubeSolver",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/pspkm/CLionProjects/RubicksCubeSolver/cmake-build-debug/CMakeFiles/RubicksCubeSolver.dir"
+}
